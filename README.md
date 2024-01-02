@@ -19,5 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 preview
+
 ![WhatsApp Image 2024-01-02 at 23 01 19_08588378](https://github.com/scotch01/simpleKalkulator/assets/101814955/986c4999-c9dc-4ee7-972b-c4272c280a37)
 
